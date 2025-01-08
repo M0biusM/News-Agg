@@ -1,0 +1,12 @@
+# Web Framework
+flask==3.0.0
+
+# Testing
+pytest==7.4.3
+
+# For web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# For security
+python-dotenv==1.0.0 
